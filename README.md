@@ -1,8 +1,10 @@
 # uge 34
 
 #Tirsdag
-jeg har lavet hele:
-- Plain-JPA-And-Facades-With-NetBeans
+Plain-JPA-And-Facades-With-NetBeans
+- den hele
 
-Det meste af 
-- https://docs.google.com/document/d/1Uib8GtBXmQZJ9x5tqXXHt1UYkkRPo9zKwugWa87bzUI/edit
+
+Day-2-JPA-intro
+- fra starten til dele af Ex-2 Continued - Adding a facade
+
